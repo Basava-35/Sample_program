@@ -1,0 +1,2 @@
+C:\D_Drive\Practise_programs\CSharp_Programs\SampleProgram\Sample_program\SampleProgram\SampleProgram\obj\Debug\SampleProgram.csprojAssemblyReference.cache
+C:\D_Drive\Practise_programs\CSharp_Programs\SampleProgram\Sample_program\SampleProgram\SampleProgram\obj\Debug\SampleProgram.csproj.CoreCompileInputs.cache
